@@ -1,0 +1,7 @@
+1. Jetson nano bot을 컴퓨터와 연결한다.
+2. 마이크로 usb를 컴퓨터와 연결한다. 
+3. 연결이 되면, window powershell을 관리자의 권한으로 연다.
+4. cd ..를 두 번 반복해서 쓴다.
+5. 디렉토리가 C:\가 되면: ssh dli@192.168.55.1(-> jetson nano 봇의 IP 주소)
+6. 그러면 밑에 warning: Remote Host Identification Has Changed 라고 뜬다
+7. 
